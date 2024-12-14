@@ -1,0 +1,8 @@
+[tool.poetry]
+name = "django-todo-app"
+version = "0.1.0"
+description = "A Django Todo List Application"
+[tool.poetry.dependencies]
+python = "^3.11"
+django = "^4.2"
+djangorestframework = "^3.14"
